@@ -1,6 +1,5 @@
 {
 	"ImportPath": "github.com/jpillora/cloud-torrent",
-	"ImportPath": "github.com/suryadewa/ForNesiaToRrent",
 	"GoVersion": "go1.5.3",
 	"Deps": [
 		{
@@ -111,6 +110,9 @@
 			"ImportPath": "github.com/willf/bloom",
 			"Comment": "v2.0.0-3-gaa3071d",
 			"Rev": "aa3071d9203598166c09553d43e74b588c3d91be"
+		},
+		{
+			"ImportPath": "github.com/suryadewa/ForNesiaToRrent"
 		},
 		{
 			"ImportPath": "golang.org/x/net/html",
