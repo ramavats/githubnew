@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/jpillora/cloud-torrent/engine"
-	"github.com/jpillora/suryadewa/ForNesiaToRrent"
+	"github.com/suryadewa/ForNesiaToRrent/static"
 	"github.com/jpillora/go-realtime"
 	"github.com/jpillora/requestlog"
 	"github.com/jpillora/scraper/scraper"
