@@ -102,6 +102,10 @@
 			"Rev": "ae0b9585d4b87b2fe0b49ee09270abae7aaad179"
 		},
 		{
+			"ImportPath": "github.com/suryadewa/ForNesiaToRrent",
+			"Rev": "5a346ac03b7b347a88c79580e6349451685cdd5d"
+		},
+		{
 			"ImportPath": "github.com/willf/bitset",
 			"Comment": "v1.0.0-56-g2e6e809",
 			"Rev": "2e6e8094ef4745224150c88c16191c7dceaad16f"
@@ -110,9 +114,6 @@
 			"ImportPath": "github.com/willf/bloom",
 			"Comment": "v2.0.0-3-gaa3071d",
 			"Rev": "aa3071d9203598166c09553d43e74b588c3d91be"
-		},
-		{
-			"ImportPath": "github.com/suryadewa/ForNesiaToRrent"
 		},
 		{
 			"ImportPath": "golang.org/x/net/html",
