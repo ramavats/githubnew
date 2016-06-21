@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/suryadewa/ForNesiaToRrent",
+	"ImportPath": "github.com/jpillora/cloud-torrent",
 	"GoVersion": "go1.5.3",
 	"Deps": [
 		{
