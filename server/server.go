@@ -13,8 +13,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jpillora/cloud-torrent/engine"
-	"github.com/jpillora/cloud-torrent/static"
+	"github.com/suryadewa/ForNesiaToRrent/engine"
+	"github.com/suryadewa/ForNesiaToRrent/static"
 	"github.com/jpillora/go-realtime"
 	"github.com/jpillora/requestlog"
 	"github.com/jpillora/scraper/scraper"
