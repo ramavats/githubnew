@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/suryadewa/ForNesiaToRrent/server"
+	"github.com/jpillora/cloud-torrent/server"
 	"github.com/jpillora/opts"
 )
 
