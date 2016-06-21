@@ -1,3 +1,5 @@
+# ForNesia-ToRrent
+
 <img src="https://cloud.githubusercontent.com/assets/633843/9855504/f30a715c-5b51-11e5-83f3-f4fab03e5459.png" alt="screenshot"/>
 
 **Cloud torrent** is a a self-hosted remote torrent client, written in Go (golang). You start torrents remotely, which are downloaded as sets of files on the local disk of the server, which are then retrievable or streamable via HTTP.
@@ -10,9 +12,9 @@
 * Real-time updates
 * Mobile-friendly
 * Fast [content server](http://golang.org/pkg/net/http/#ServeContent)
-* [*More features coming soon*](https://github.com/jpillora/cloud-torrent/labels/core-feature)
 
-### Install
+
+### Source From jpillora > Install
 
 **Binaries**
 
@@ -61,8 +63,6 @@ $ cloud-torrent --help
   Version:
     0.8.8
 
-  Read more:
-    https://github.com/jpillora/cloud-torrent
 
 ```
 
@@ -96,3 +96,6 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+ForNesia-ToRrent Credits Jpillora
