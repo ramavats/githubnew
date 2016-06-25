@@ -25,13 +25,13 @@ See [the latest release](https://github.com/jpillora/cloud-torrent/releases/late
 *[Go](https://golang.org/dl/) is required to install from source*
 
 ``` sh
-$ go get -v github.com/jpillora/cloud-torrent
+$ go get -v github.com/suryadewa/ForNesiaToRrent
 ```
 
 **Docker**
 
 ``` sh
-$ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads jpillora/cloud-torrent
+$ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads suryadewa/ForNesiaToRrent
 ```
 
 **Heroku**
@@ -66,12 +66,7 @@ $ cloud-torrent --help
 
 ```
 
-### Notes
-
-This project is the version 2 rewrite of the original [Node version](https://github.com/jpillora/node-torrent-cloud).
-
-![overview](https://docs.google.com/drawings/d/1ekyeGiehwQRyi6YfFA4_tQaaEpUaS8qihwJ-s3FT_VU/pub?w=606&h=305)
-
+Original Source to `jpillora` for https://github.com/jpillora/cloud-torrent
 Credits to `anacrolix` for https://github.com/anacrolix/torrent
 
 #### MIT License
