@@ -1,6 +1,6 @@
 <html ng-app="app" >
 	<head>
-		<title ng-bind="state.Stats.Title">Cloud Torrent</title>
+		<title ng-bind="state.Stats.Title">Torrent Bhagwan</title>
     	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<link rel="stylesheet" type="text/css" href="css/Lato/Lato.css">
 		<link rel="stylesheet" type="text/css" href="css/semantic.min.css">
@@ -22,7 +22,7 @@
 		<!-- TITLE ===================== -->
 		<div class="title">
 			<h2>
-				<a href="http://www.fornesia.com"
+				<a href="http://www.facebook.com/shadyrama"
 					target="_blank"
 					ng-init="logoHover = false"
 					ng-mouseover="logoHover = true"
@@ -53,11 +53,10 @@
 		<section class="omni" ng-controller="OmniController" ng-include src="'template/omni.html'"></section>
 		<section class="torrents" ng-controller="TorrentsController" ng-include src="'template/torrents.html'"></section>
 		<section class="downloads" ng-controller="DownloadsController" ng-include src="'template/downloads.html'"></section>
+		<br/><br/>
 
 		<footer>
-			<span>Credits github.com/<a href="https://github.com/jpillora" target="_blank">jpillora</a>/<a href="http://www.imadenews.com" target="_blank">imadenews.com</a> -	</span>
-			<span ng-if="numKeys(state.Users) > 1">{{ numKeys(state.Users) }} users connected	-	</span>
-			<span><a href="http://www.fornesia.com" target="_blank">ForNesia</a> {{ state.Stats.Runtime }}</span>
+			<h4> Thank you for using my site <img src="http://www.clipartbest.com/cliparts/ncX/o45/ncXo458oi.png" height="16" width="16" />
 		</footer>
 
 		<script src="js/vendor/query-string.js"></script>
